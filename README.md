@@ -1,5 +1,7 @@
 # System Design Resources
-These are the best resources for System Design on the Internet.
+
+System design is quite important skill for S/W professionals.
+
 
 # Table of Contents
 
