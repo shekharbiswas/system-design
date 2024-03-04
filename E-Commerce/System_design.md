@@ -12,3 +12,4 @@
 ![image](https://github.com/shekharbiswas/system-design/assets/32758439/204015eb-7c98-4855-8b70-0aa4354e5d7c)
 
 
+![image](https://github.com/shekharbiswas/system-design/assets/32758439/79af3ba1-a2ce-4b05-a01e-90912f6555df)
