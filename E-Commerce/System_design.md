@@ -2,3 +2,6 @@
 
 ![image](https://github.com/shekharbiswas/system-design/assets/32758439/99fa7350-bff8-4b7d-9c85-79ffa759ccc8)
 
+![image](https://github.com/shekharbiswas/system-design/assets/32758439/2d0676db-1c6b-461e-b202-35343e89bf1d)
+
+
