@@ -4,4 +4,5 @@
 
 ![image](https://github.com/shekharbiswas/system-design/assets/32758439/2d0676db-1c6b-461e-b202-35343e89bf1d)
 
+![image](https://github.com/shekharbiswas/system-design/assets/32758439/49ec086b-6b32-4e1a-8941-2f814c24e314)
 
